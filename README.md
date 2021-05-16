@@ -27,6 +27,18 @@ If you object:
 
 * The code violates the following guidelines: ...
 
+## Code quality
+
+[ ] I have read every changed line of code and commented on any potential issues I encountered.
+
+or
+
+[ ] I have briefly reviewed the code but not examined every change in detail.
+
+or
+
+[ ] I have not reviewed the code; I have only tested it.
+
 ## Compatibility
 
 [ ] This change breaks compatibility with older versions in the following ways: ...
